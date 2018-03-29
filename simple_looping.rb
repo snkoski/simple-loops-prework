@@ -46,9 +46,9 @@ counter = 0
 until counter == number_of_times do
   puts phrase
   counter += 1
+  end
 end
-end
-until_iterator(3)
+
 
 def for_iterator(number_of_times)
   # code your solution here using the "for" keyword
