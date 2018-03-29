@@ -48,6 +48,7 @@ until counter = number_of_times do
   counter += 1
 end
 end
+until_iterator(3)
 
 def for_iterator(number_of_times)
   # code your solution here using the "for" keyword
