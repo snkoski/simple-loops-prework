@@ -58,6 +58,7 @@ def for_iterator(number_of_times)
   counter = (1..number_of_times)
   for number in counter do
     puts phrase
+  end
   
 end
 
