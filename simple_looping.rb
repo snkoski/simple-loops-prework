@@ -18,7 +18,8 @@ def loop_iterator(number_of_times)
   end
 end
 
-loop_iterator(4)
+loop_iterator(10)
+
 
 
 def times_iterator(number_of_times)
